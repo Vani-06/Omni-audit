@@ -1,4 +1,4 @@
-# Hotfoot AI - Financial Document Intelligence System
+# Omni-audit - Financial Document Intelligence System
 
 🚀 AI-powered financial document processing using Next.js, MongoDB, Mastra, and Inngest.
 
