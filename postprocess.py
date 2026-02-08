@@ -1,4 +1,10 @@
 # postprocess.py
+COMPLIANCE_KEYWORDS = [
+    "recorded",
+    "legal notice",
+    "compliance",
+    "quality assurance"
+]
 
 def filter_regulatory_phrases(phrases):
     keywords = ["recorded", "legal notice", "compliance", "quality"]
